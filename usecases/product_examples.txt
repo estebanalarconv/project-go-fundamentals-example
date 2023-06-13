@@ -1,0 +1,14 @@
+product.name=Shampoo
+product.volume=250
+
+product.name=Eggs
+product.volume=1000
+
+product.name=Milk
+product.volume=1000
+
+product.name=Bread
+product.volume=1000
+
+product.name=Water
+product.volume=2000
